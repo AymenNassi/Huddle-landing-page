@@ -7,8 +7,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 ![](./design/screenshot-1.png)
 ![](./design/screenshot-2.png)
 
-- [solution](https://your-solution-url.com)
-- [live site](https://your-live-site-url.com)
+- [solution](https://www.frontendmentor.io/solutions/huddle-landing-page-J-2HNRth3x)
+- [live site](https://aymennassi.github.io/Huddle-landing-page/)
 
 ### Built with
 
